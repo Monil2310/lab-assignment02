@@ -17,9 +17,9 @@
 #flex-section2 ul {
 
 	display: flex; 
-  justify-content: space-around; 
-  list-style: none; 
-  padding: 0; 
+	justify-content: space-around; 
+	list-style: none; 
+	padding: 0; 
 	
 }
 
